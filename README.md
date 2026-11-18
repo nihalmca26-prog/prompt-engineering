@@ -1,6 +1,6 @@
 # prompt-engineering
 lab assignments
-1.Analyze the given customer query and classify it into the most appropriate category from the following:
+1. Analyze the given customer query and classify it into the most appropriate category from the following:
 
 Delivery, Shipping, Refund, Payment, Cancellation, Defect, Return, Account, Unknown.
 choose only one category based on the main intent of the customer's query.
