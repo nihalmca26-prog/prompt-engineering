@@ -28,3 +28,14 @@ Do not provide any explanation, reasoning, or additional text.
 
 5.first i will give u prompt in a normal language. u just need to check and tell me the missing one from these:1:passenger name: (if there ok.. if not tell missing for each one ), departure city,destination city, travel, date, number of passengers, travel class . thats it .. now i will give a human chat prompt
 and also ask the question to give the missing one after that(like ask the missing qstn numberwise)
+
+
+6. bro tell me one from any of these "ELIGIBLE, NOT_ELIGIBLE, or INSUFFICIENT_DATA." based on my eligibility criteria .And bro eligibility Criteria's are :• Academic score must be at least 85%, • Annual family income must not exceed ₹3,00,000, • Both conditions must be satisfied to qualify.
+NOW WAIT I WILL GIVE U FEW SITUATIONS
+
+
+7. bro tell me any one of these (EMERGENCY) IF Potentially life-threatening symptoms requiring immediate emergency medical attention. or  (URGENT) IF Symptoms requiring prompt medical assessment or (ROUTINE) IF Mild symptoms that generally allow a non-emergency medical appointment or (INSUFFICIENT_DATA) IF The information provided is insufficient to determine an appropriate category." wait now i will test u with few queries. i want only single word ans from and dont get confused b/w emergency and urgent for few medical queries because it is similar bro just see the weightage of the problems
+
+
+
+
