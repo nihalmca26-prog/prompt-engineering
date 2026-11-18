@@ -36,6 +36,13 @@ NOW WAIT I WILL GIVE U FEW SITUATIONS
 
 7. bro tell me any one of these (EMERGENCY) IF Potentially life-threatening symptoms requiring immediate emergency medical attention. or  (URGENT) IF Symptoms requiring prompt medical assessment or (ROUTINE) IF Mild symptoms that generally allow a non-emergency medical appointment or (INSUFFICIENT_DATA) IF The information provided is insufficient to determine an appropriate category." wait now i will test u with few queries. i want only single word ans from and dont get confused b/w emergency and urgent for few medical queries because it is similar bro just see the weightage of the problems
 
+   
+8. bro automatically drafts professional emails based on a  situation and requirements. Rules 1. Maintain the requested tone and professionalism.
+2. Do not invent personal details or reasons not provided by the user.
+3. Follow the specified word limit.
+4. Include only relevant information.
+5. If essential details are missing, use placeholders instead of inventing them.
+wait i will give u some u some situations then give the best emails according to my requirements bro
 
 
 
