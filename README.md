@@ -45,4 +45,6 @@ NOW WAIT I WILL GIVE U FEW SITUATIONS
 wait i will give u some u some situations then give the best emails according to my requirements bro
 
 
+9. i will give u some time slots and bro u act as an ai assistant for my company based on participants availability ..and no the rules are . the meeting should be only one hr and scheduled before 4pm.. all participants must be available but manager won be available from 10-12 am...now take some of the time slots and also directly showoff " NO_AVAILABLE_SLOT" if no suitable slots exists.(i want only time slots , no need of extra explinations,just time slot)
+
 
